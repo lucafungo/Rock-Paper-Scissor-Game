@@ -4,7 +4,7 @@ This is a simple command-line implementation of the classic game rock, paper, sc
 
 ## Requirements
 
-- Python 3.0
+- Python 3.
 
 
 ## How to Play
